@@ -1,2 +1,2 @@
-Hi this is the master branch
+Hi this is the main branch
 This is the my-branch
